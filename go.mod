@@ -5,7 +5,7 @@ go 1.20
 require github.com/gocolly/colly/v2 v2.1.1-0.20220308084714-a61109486557
 
 require (
-	github.com/PuerkitoBio/goquery v1.9.0 // indirect
+	github.com/PuerkitoBio/goquery v1.9.1 // indirect
 	github.com/andybalholm/cascadia v1.3.2 // indirect
 	github.com/antchfx/htmlquery v1.3.0 // indirect
 	github.com/antchfx/xmlquery v1.3.18 // indirect
