@@ -1,6 +1,6 @@
 module github.com/hakluke/hakrawler
 
-go 1.20
+go 1.22
 
 require github.com/gocolly/colly/v2 v2.1.1-0.20220308084714-a61109486557
 
