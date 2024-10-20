@@ -2,7 +2,7 @@ module github.com/hakluke/hakrawler
 
 go 1.23
 
-toolchain go1.23.1
+toolchain go1.23.2
 
 require github.com/gocolly/colly/v2 v2.1.1-0.20220308084714-a61109486557
 
