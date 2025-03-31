@@ -2,9 +2,9 @@ module github.com/hakluke/hakrawler
 
 go 1.23.0
 
-toolchain go1.23.2
+toolchain go1.24.1
 
-require github.com/gocolly/colly/v2 v2.1.1-0.20220308084714-a61109486557
+require github.com/gocolly/colly/v2 v2.2.0
 
 require (
 	github.com/PuerkitoBio/goquery v1.10.2 // indirect
@@ -23,5 +23,5 @@ require (
 	golang.org/x/net v0.37.0 // indirect
 	golang.org/x/text v0.23.0 // indirect
 	google.golang.org/appengine v1.6.8 // indirect
-	google.golang.org/protobuf v1.36.5 // indirect
+	google.golang.org/protobuf v1.36.6 // indirect
 )
