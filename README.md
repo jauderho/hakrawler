@@ -115,3 +115,13 @@ Usage of hakrawler:
   -u	Show only unique urls.
   -w	Show at which link the URL is found.
 ```
+
+---
+
+Built by [hakluke](https://hakluke.com) (Luke Stephens), founder and CEO of [Haksec](https://haksec.io), a group of cybersecurity companies:
+
+- [HackerContent](https://hackercontent.com) — content marketing and social media for cybersecurity companies
+- [Ironbark Cyber](https://ironbarkcyber.com) — cybersecurity consultancy for penetration testing, social engineering and OSINT
+- [TRIAGERS™](https://triagers.com) — outsourced bug bounty and vulnerability disclosure (VDP) triage
+
+I write about hacking and the security industry at [hakluke.com](https://hakluke.com).
